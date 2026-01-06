@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not? Projeto de Conteúdo Realista com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Coleção de criações "natty-like" (que soam/parecem humanas) usando IAs generativas: e-book reflexivo, vídeo em estilo documentário realista, áudio que imita voz humana e um podcast introdutório. O foco é testar o limite entre natural e sintético — autenticidade percebida vs. produção assistida por IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: ideação, refinamento de prompts e revisão de textos;
+- **Leonardo AI**: geração do vídeo documental;
+- **ElevenLabs**: clonagem e síntese de voz para o áudio;
+- **Descript**: limpeza/edição de áudio e normalização;
+- **Adobe Premiere (opcional)**: cortes mínimos e ajustes finais no vídeo;
+- **LibreOffice**: diagramação do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Defini a linha editorial: "parece humano, com imperfeições naturais" (respirações, pausas, enquadramento não perfeito, luz ambiente, tom coloquial).
+2. Escrevi e revisei textos e prompts no ChatGPT para manter especificidade e evitar generalidades.
+3. Gereei o vídeo no Leonardo AI priorizando câmera na mão, pessoas ao fundo e luz natural; usei Premiere só para cortes/normalização quando necessário.
+4. Criei o áudio via ElevenLabs (voz) e finalizei no Descript (limpeza e ganho).
+5. Compilei o e-book no LibreOffice, mantendo o ensaio completo sobre autenticidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- 📘 E-book: ensaio "Natty or Not? Desvendando o Truque da IA Generativa" — ver em [`exemplos/E-BOOK.md`](./exemplos/E-BOOK.md)
+- 🎧 Áudio: voz sintética que soa humana — ver em [`exemplos/AUDIO.md`](./exemplos/AUDIO.md)
+- 🎙️ Podcast: introdução rápida às IAs generativas — ver em [`exemplos/PODCAST.md`](./exemplos/PODCAST.md)
+- 🎥 Vídeo: estilo documentário realista — ver em [`exemplos/VIDEO.md`](./exemplos/VIDEO.md)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 🧪 Prompt do Vídeo (Leonardo AI)
+```
+Realistic documentary-style video.
+A human sitting in a coffee shop, natural light, imperfect framing.
+People walking in the background.
+Handheld camera feeling.
+Quiet, reflective mood.
+Looks like real life, not cinematic, not artificial.
+Gerado Leonardo AI.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Uso IA como muleta, não como pernas. A naturalidade percebida nasce das pequenas imperfeições — pausas, respirações, enquadramentos e detalhes sensoriais — e da revisão humana que devolve especificidade e voz própria. Transparência no uso de IA é essencial para não cruzar a linha ética entre demonstração e engano.

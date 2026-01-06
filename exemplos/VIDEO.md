@@ -1,18 +1,31 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: realista gerado por IA 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Vídeo curto em estilo documentário realista. Uma pessoa sentada em um café, luz natural, enquadramento imperfeito, pessoas passando ao fundo. Sensação de câmera na mão, clima quieto e reflexivo — parece vida real, não cinematográfico, não artificial.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para geração do vídeo em estilo documental;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para refino do prompt e ajustes descritivos;
+
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+1. Refinei o prompt descritivo com o ChatGPT para capturar um clima documental e cotidiano.
+2. Gereí o vídeo no Leonardo AI priorizando naturalidade, movimento de câmera manual e presença de figurantes ao fundo.
+
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Vídeo com aparência de vida real: luz natural, pequenas imperfeições de enquadramento e sensação autêntica de câmera na mão. O resultado reforça um clima contemplativo, discreto e crível.
+
+## 🧪 Prompt utilizado
+```
+Realistic documentary-style video.
+A human sitting in a coffee shop, natural light, imperfect framing.
+People walking in the background.
+Handheld camera feeling.
+Quiet, reflective mood.
+Looks like real life, not cinematic, not artificial.
+Gerado Leonardo AI.
+```
 
 [LINK PARA O VÍDEO AQUI]()
 
