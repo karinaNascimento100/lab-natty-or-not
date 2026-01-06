@@ -1,21 +1,17 @@
 # Áudio: Voz Sintética que soa Humana 🎧
 
 ## 📒 Descrição
-Gravei um áudio curto imitando voz humana para testar até onde a clonagem de voz consegue soar natural sem parecer robótica. O objetivo foi avaliar ritmo, entonação e pausas para enganar o ouvido casual.
+Gerei um áudio curto imitando voz humana para testar até onde a clonagem de voz consegue soar natural sem parecer robótica. O objetivo foi avaliar ritmo, entonação e pausas para enganar o ouvido casual.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para rascunhar o roteiro com tom coloquial;
-- IA de voz **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e síntese da voz;
-- Editor **[Descript](https://www.descript.com)** para limpeza de ruído, cortes finos e normalização de volume.
+- Editor **[Descript](https://www.descript.com)**
 
 ## 🧐 Processo de Criação
-1. Escrevi um roteiro curto em linguagem espontânea, com gírias e pequenas hesitações planejadas.
-2. Ajustei o modelo de voz no ElevenLabs para priorizar naturalidade (respirações sutis e variação de pitch).
-3. Exportei o áudio e refinei no Descript: removi cliques, equalizei e nivelei o ganho para manter consistência.
+1. A IA gerou um roteiro curto em linguagem espontânea, com gírias e pequenas hesitações planejadas.
+2. Exportei o áudio gerado pelo Descript.
 
 ## 🚀 Resultados
 - O áudio final mantém ritmo de fala humano, com pausas naturais e variação de entonação.
-- Teste rápido com colegas: a maioria acreditou ser uma gravação humana até ouvir a revelação.
 
 🎧 Ouça aqui: [audio.wav](./audio.wav)
 
