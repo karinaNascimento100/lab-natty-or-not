@@ -12,9 +12,9 @@ Este repositório reúne um conjunto de criações "natty-like" (que soam/parece
 ## 🧐 Processo de Criação
 1. Defini a linha editorial: "parece humano, com imperfeições naturais" (respirações, pausas, enquadramento não perfeito, luz ambiente, tom coloquial).
 2. Revisei textos e prompts no ChatGPT para preservar especificidade e evitar generalidades.
-3. Gerei o vídeo no Leonardo AI priorizando câmera na mão, pessoas ao fundo e luz natural; editei apenas o essencial no Premiere.
-4. Criei o áudio via Descript, ajustando ritmo e micro-pauses; finalizei no Descript.
-5. Compilei o e-book no LibreOffice, com conteúdo reflexivo sobre autenticidade na era das IAs.
+3. Gerei o vídeo no Leonardo AI priorizando câmera na mão, pessoas ao fundo e luz natural.
+4. Criei o áudio via Descript.
+5. Gerei o e-book, com conteúdo reflexivo sobre autenticidade na era das IAs.
 
 ## 🚀 Resultados
 - 📘 E-book: ensaio "Natty or Not? Desvendando o Truque da IA Generativa" — ver em [`exemplos/E-BOOK.md`](./exemplos/E-BOOK.md)
